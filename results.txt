@@ -1,0 +1,9 @@
+1k embeddings
+num_heads, PyTorch(time in ms), Custom kernel(time in ms)
+1, 22.12, 0.03
+2, 17.42, 19.59
+3, 17.38, 12.19
+5, 18.42, 7.20
+10, 20.94, 6.46
+15, 23.72, 5.45
+30, 31.99, 9.42
